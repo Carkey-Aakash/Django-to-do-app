@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+</head>
+<body>
+    {% extends 'base/main.html' %}
+    {% block content %}
+    <div class="header-bar">
+        <h3>Register Page: </h3>
+    </div>
+    <div class="card-body">
+    <form action="" method="POST">
+    {% csrf_token %}
+    <label>{{form.username.label}}</label>
+    {{form.username}}
+
+    <label>{{form.password1.label}}</label>
+    {{form.password1}}
+    <small style="color: #888;">Password must be at least 8 characters, include uppercase, lowercase, number, and symbol.</small><br>
+    <label >{{form.password2.label}}</label>
+    {{form.password2}}
+    <br><br>
+    <input class="button" type="Submit" value="Register">
+    </form>
+    <p>Already  have an account? <a class="button" href="{% url 'login' %}"> Login</a></p>
+    </div>
+   
+    {% endblock content %}
+</body>
+</html>
