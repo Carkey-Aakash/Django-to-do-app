@@ -73,27 +73,29 @@ https://github.com/user-attachments/assets/a0ca5418-a796-4f45-8d37-811749f7d63b
 ---
 
 ## 🚀 Getting Started
+```
+1️⃣ Clone the Repo
 
-### 1️⃣ Clone the Repo
-```bash
 git clone https://github.com/Carkey-Aakash/Django-to-do-app.git
 cd Django-to-do-app
-2️⃣ Create Virtual Environment (Recommended)
-bash
-Copy code
-python -m venv venv
-venv\Scripts\activate       # Windows
-# OR
-source venv/bin/activate    # Mac/Linux
+
+2️⃣ Create and Activate a Virtual Environment
+python -m venv env
+
+🪟 On Windows:
+env\Scripts\activate
+
+🐧 On macOS/Linux:
+source env/bin/activate
+
 3️⃣ Install Dependencies
-bash
-Copy code
 pip install -r requirements.txt
-4️⃣ Apply Migrations
-bash
-Copy code
+
+4️⃣ Run Database Migrations
 python manage.py migrate
-5️⃣ Run the App
-bash
-Copy code
+
+5️⃣ Start the Development Server
 python manage.py runserver
+
+6️⃣ Open in Browser
+Go to 👉 http://127.0.0.1:8000/
