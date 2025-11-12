@@ -35,7 +35,7 @@ Perfect for learning Django fundamentals such as **Models, Views, Templates, and
 
 Watch the live demo of the app here:
 
-https://github.com/user-attachments/assets/a0ca5418-a796-4f45-8d37-811749f7d63b
+https://github.com/user-attachments/assets/7cc1f3b6-710f-4867-9f0d-f21198cd48fc
 
 ---
 
@@ -43,31 +43,29 @@ https://github.com/user-attachments/assets/a0ca5418-a796-4f45-8d37-811749f7d63b
 ## 🖼️ UI Preview (Screenshots)
 
 ### 1. **Login Page**
-<img width="686" height="501" alt="Image" src="https://github.com/user-attachments/assets/ad49382f-12b9-4654-a730-1cf6b5ce52a6" />
+
+<img width="686" height="501" alt="Image" src="https://github.com/user-attachments/assets/2db2a605-7c4a-4bab-bc8c-2285addbacfe" />
 
 ### 2. **Register Page**
 
-<img width="683" height="598" alt="Image" src="https://github.com/user-attachments/assets/a577d9cb-67b7-4eef-b0a8-31e3975be115" />
-
+<img width="683" height="598" alt="Image" src="https://github.com/user-attachments/assets/a568d753-c83e-4017-bd6c-9888a2e7f86a" />
 
 ### 3. **Home Page (Task List)**
 
-<img width="689" height="379" alt="Image" src="https://github.com/user-attachments/assets/f83a9d0d-1239-438d-8e5b-6bdeb4aa0e12" />
+<img width="689" height="379" alt="Image" src="https://github.com/user-attachments/assets/494c2e2c-ce01-4d6e-9a19-0c498fcee4de" />
 
 
 ### 4. **Add Task Page**
 
-
-
-<img width="687" height="631" alt="Image" src="https://github.com/user-attachments/assets/c57ea81b-5d7b-4e09-9bfb-1961a8a0d35c" />
+<img width="687" height="631" alt="Image" src="https://github.com/user-attachments/assets/ebd3e92e-a6df-48b1-ad45-72b815e64f9d" />
 
 ### 5. **Delete Task**
 
-<img width="686" height="244" alt="Image" src="https://github.com/user-attachments/assets/3cf054c9-6cbb-4bd4-99ed-de55912a16c6" />
+<img width="686" height="244" alt="Image" src="https://github.com/user-attachments/assets/b09ca6e7-3a6b-49ec-8818-8212c6cdeae9" />
 
 ### 6. **Complete Task**
 
-<img width="683" height="466" alt="Image" src="https://github.com/user-attachments/assets/ccef1812-0fd9-47ee-b455-48eb916ae99d" />
+<img width="683" height="466" alt="Image" src="https://github.com/user-attachments/assets/0b68fc1d-ebbb-4d01-a6fc-c3e5474f641a" />
 
 
 ---
